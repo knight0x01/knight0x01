@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Knight
 
-<!--
-**knight0x01/knight0x01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Chain-Agnostic Smart Contract Engineer  
+ Protocol-Level Thinker | Security Focused  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build and study decentralized systems across multiple blockchain architectures.
+
+---
+
+##  Core Expertise
+
+###  Smart Contract Development
+- Solidity (EVM)
+- Clarity (Bitcoin-secured contracts)
+- Soroban (Stellar smart contracts)
+- Rust-based smart contract environments
+
+###  Systems & Protocol Knowledge
+- Consensus mechanisms (PoW, PoS)
+- Execution vs Consensus Layer design
+- State Transition Functions (STF)
+- P2P networking fundamentals
+- JSON-RPC & Engine APIs
+- Blockchain client architecture
+
+###  Programming
+- Rust
+- Go
+- TypeScript / JavaScript
+
+---
+
+##  Focus Areas
+
+- Smart contract security & attack surfaces
+- Protocol design & validator incentives
+- Zero-Knowledge systems
+- Blockchain infrastructure tooling
+- Cross-chain architecture thinking
+---
+
+## 🌍 Philosophy
+
+I don’t build for one chain.  
+ 
+> "Decentralization is a systems problem, not a brand." 
